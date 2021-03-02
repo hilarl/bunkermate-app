@@ -1,0 +1,194 @@
+#bunkermate-app {
+    background: #292929;
+}
+
+.side-menu {
+    text-align: right;
+    padding-top: 40px;
+}
+
+.signin-button {
+    margin-bottom: 20px;
+}
+
+.side-menu a {
+    color: white;
+    margin-left: 30px;
+}
+
+.main-container {
+    margin: 90px auto;
+    margin-top: 50px;
+    background: white;
+    border-radius: 10px;
+    padding: 0;
+    overflow: hidden;
+}
+
+.map-container {
+    background: url('https://modestlyboldmag.com/wp-content/uploads/2018/09/GoogleMapTA.jpg');
+    height: 500px;
+}
+
+.content-container {
+    background: #3F3F3F;
+}
+
+.new-order-form {
+    padding-top: 60px;
+}
+
+.logo {
+    height: 25px;
+    margin: 40px 0px;
+    margin-bottom: 0;
+}
+
+.route-search-form {
+    color: white;
+    padding: 0px 40px;
+    padding-bottom: 40px;
+}
+
+.route-search-form h4 {
+    font-size: 18px;
+}
+
+.route-search-form input {
+    background: #3F3F3F;
+    border: 1px solid #535353;
+    border-radius: 0;
+    margin: 20px 0;
+    padding: 25px 15px;
+}
+
+.route-search-form input:focus {
+    background: none;
+}
+
+.route-search-form input {
+    color: white!important;
+}
+
+.btn-primary {
+    float: right;
+    background: #324E5B;
+    border: none;
+    letter-spacing: 1px ;
+    font-weight: 300;
+}
+
+.btn-primary:hover, .btn-primary:active, .btn-primary:focus {
+    background: #254554;
+}
+
+.btn-lg {
+    font-size: 16px;
+    padding: 14px 60px;
+}
+
+.supplier-card {
+    margin-bottom: 20px;
+}
+
+.supplier-card h5 {
+    font-size: 16px;
+}
+
+.supplier-card p {
+    font-size: 14px;
+}
+
+.supplier-card .rating {
+    color: #999;
+}
+
+.supplier-choose-btn {
+    border: 1px solid #ddd;
+    color: #324E5B;
+}
+
+.supplier-info {
+    padding-left: 80px;
+}
+
+.supplier-info p {
+    font-size: 14px;
+}
+
+.order-container {
+    padding: 60px;
+}
+
+.product-card {
+    margin-top: 30px;
+}
+
+.product-item {
+    margin-bottom: 30px;
+}
+
+.product-item img {
+    height: 70px;
+}
+
+.order-container h1 {
+    font-size: 34px;
+}
+
+.order-container h4 {
+    font-size: 22px;
+    margin-bottom: 50px;
+}
+
+.order-container h5 {
+    font-size: 18px;
+}
+
+#bunkermate-signup {
+    margin-top: 40px;
+}
+
+#bunkermate-signup input {
+    border-radius: 0;
+    padding: 25px 15px;
+}
+
+#bunkermate-signup .form-group {
+    margin-bottom: 30px;
+}
+
+.btn-g {
+    padding-bottom: 50px;
+}
+
+.order-card {
+    padding: 20px 10px;
+    margin-top: 40px;
+}
+
+.order-card p {
+    padding-bottom: 0;
+    margin-bottom: 0;
+    font-size: 14px;
+}
+
+#dashboard-nav a {
+    color: #C2C2C2;
+    display: block;
+    font-weight: bold;
+    font-size: 16px;;
+    padding: 20px;
+    text-transform: uppercase;
+}
+
+#dashboard-nav a.active {
+    display: block;
+    padding: 20px;
+    text-transform: uppercase;
+    color: #617C89;
+}
+
+.checkout-menu h2 {
+    margin-bottom: 30px;
+}

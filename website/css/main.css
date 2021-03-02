@@ -1,0 +1,200 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    max-width: 1400px;
+}
+
+.nav-item {
+    font-size: 14px;
+}
+
+.navbar-brand {
+    padding-top: 0;
+}
+
+.bg-dark {
+    background: black!important;
+}
+
+h1 {
+    font-weight: 500;
+    letter-spacing: -1px;
+}
+
+p {
+    letter-spacing: -0.5px;
+    margin-bottom: 30px;
+}
+
+.btn {
+    border-radius: 0;
+}
+
+.banner-img {
+    padding: 0;
+}
+
+.sub-header-container {
+    background: black;
+    color: white;
+}
+
+.btn-dark {
+    background: black;
+}
+
+.sub-header h1 {
+    margin-bottom: 30px;
+}
+
+.sub-header {
+    padding: 60px 30px;
+}
+
+.sub-header-container .btn-lg {
+    font-size: 18px;
+}
+
+.signup-block {
+    background: #f5f5f5;
+}
+
+.signup-block .col-12 {
+    padding: 0;
+}
+
+.signup-box {
+    padding: 40px;
+}
+
+.signup-box h2 {
+    margin-bottom: 20px;
+}
+
+.feature-blocks {
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+
+.feature-blocks h4 {
+    margin: 20px 0;
+    font-size: 20px;
+    letter-spacing: -0.5px;
+}
+
+.testimonials {
+    margin-top: 0;
+    padding-top: 60px;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 60px;
+}
+
+.testimonial {
+    font-weight: 300;
+}
+
+.test-author {
+    text-align: right;
+}
+
+.newsletter {
+    margin-top: 60px;
+    padding-bottom: 60px;
+}
+
+.testimonials h3, .newsletter h3 {
+    margin-bottom: 40px;
+}
+
+.newsletter-input {
+    padding: 10px 10px;
+    border: 1px solid black;
+}
+
+.newsletter-button {
+    padding: 10px 10px;
+}
+
+footer {
+    background: black;
+    color: white;
+    min-height: 300px;
+    padding: 60px 0;
+}
+
+.copyright {
+    font-size: 12px;
+    letter-spacing: 0.5px;;
+}
+
+.footer-nav a {
+    margin-right: 30px;
+    margin-bottom: 60px;
+    color: white;
+    font-size: 13px;
+    letter-spacing: 1px;
+    font-weight: 400;;
+}
+
+.social-nav a {
+    color: white;
+    margin-right: 30px;
+    text-decoration: none;
+}
+
+.social-nav i {
+    font-size: 20px;
+}
+
+.social-nav a:last-child {
+    margin-right: 0;
+}
+
+#signup-block {
+    margin-top: 80px;
+}
+
+#signup-block h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.bunker-page {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.bunker-page h1 {
+    margin-bottom: 30px;
+}
+
+.bunker-page h3 {
+    margin-bottom: 30px;
+}
+
+@media (min-width: 576px) {
+    .social-nav {
+        text-align: left;
+    }
+}
+
+@media (min-width: 768px) {
+    .social-nav {
+        text-align: left;
+    }
+}
+
+@media (min-width: 992px) {
+    .social-nav {
+        text-align: right;
+    }
+}
+
+@media (min-width: 1200px) {
+    .social-nav {
+        text-align: right;
+    }
+}
